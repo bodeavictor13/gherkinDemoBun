@@ -2,7 +2,7 @@
 @BSPID1024REV0.2.0
 Feature: r1
 @TSCID1231
-	Scenario Outline: baubau
+	Scenario Outline: baubau changed
 		Given <param1> 
 		When  <param2>  
 		Then  <param3>  
