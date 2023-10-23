@@ -8,7 +8,7 @@ Feature: da
 		Then jjjj
 
 @TSCID2137004
-	Scenario Outline: tewt
+	Scenario Outline: tewt changes
 		Given <param1> 
 		When  <param2>  
 		Then  <param3>  
