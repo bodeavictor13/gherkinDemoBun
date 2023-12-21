@@ -2,7 +2,7 @@
 @BSPID17001REV0.2.0
 Feature: xvcxbc
 @TSCID25001
-	Scenario Outline: bgh
+	Scenario Outline: bgh changed
 		Given <param1> 
 		When  <param2>  
 		Then  <param3>  
