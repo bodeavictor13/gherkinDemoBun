@@ -1,7 +1,7 @@
 #Auto generated Octane revision tag
 @TID1011REV0.3.0
 Feature: jjjj
-	Scenario Outline: yuyuyu
+	Scenario Outline: yuyuyu changed
 		Given <param1> 
 		When  <param2>  
 		Then  <param3>  
