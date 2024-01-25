@@ -2,7 +2,7 @@
 @BSPID1003REV0.2.0
 Feature: f1
 @TSCID1003
-	Scenario Outline: s1
+	Scenario Outline: s1 changed
 		Given <param1> 
 		When  <param2>  
 		Then  <param3>  
