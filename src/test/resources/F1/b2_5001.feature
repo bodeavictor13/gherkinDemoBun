@@ -8,6 +8,6 @@ Feature: f2
 		Then  something  
 
 	Examples:
-		| param1 | param2 | param3 |
-		| a      | 8      | 8      |
-		| b      | 2      | 4      |
+		| param1 | param2 |
+		| a      | 8      |
+		| b      | 2      |
