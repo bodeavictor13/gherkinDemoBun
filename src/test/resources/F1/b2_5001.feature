@@ -9,5 +9,5 @@ Feature: f2
 
 	Examples:
 		| param1 | param2 | param3 |
-		| 8      | 8      | 8      |
-		| 8      | 2      | 4      |
+		| a      | 8      | 8      |
+		| b      | 2      | 4      |
