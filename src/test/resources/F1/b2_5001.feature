@@ -5,7 +5,7 @@ Feature: f2
 	Scenario Outline: s2
 		Given <param1> 
 		When  <param2>  
-		Then  <param3>  
+		Then  something  
 
 	Examples:
 		| param1 | param2 | param3 |
