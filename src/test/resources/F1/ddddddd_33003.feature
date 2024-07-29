@@ -9,5 +9,5 @@ Feature: gdfsg
 
 	Examples:
 		| param1 | param2 | param3 |
-		| 2      | 2      | 2      |
+		| 2      | 2      | 3      |
 		| 2      | 2      | 4      |
